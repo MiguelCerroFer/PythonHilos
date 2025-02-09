@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto>
+        <nombre>Cereales</nombre>
+        <precio>3.35</precio>
+    </producto>
+    <producto>
+        <nombre>Colacao</nombre>
+        <precio>1.45</precio>
+    </producto>
+    <producto>
+        <nombre>Aceite</nombre>
+        <precio>80</precio>
+    </producto>
+</productos>
